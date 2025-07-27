@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let atletas = [
   {
     nome: "Cesar Abascal",
